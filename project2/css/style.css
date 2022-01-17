@@ -1,0 +1,16 @@
+h1{
+    font-size: 75px;
+}
+
+p{
+    font-size: 40px;
+}
+
+.imgdaging {
+    background-color: blue;
+}
+
+.imgwaffle {
+    background-color: green;
+    border-radius: 50%;
+}
